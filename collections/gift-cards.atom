@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cactusenligne.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cactusenligne.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cactusenligne.ca/collections/gift-cards.atom"/>
+  <title>Cactus en Ligne</title>
+  <updated>2019-12-19T10:23:23-05:00</updated>
+  <author>
+    <name>Cactus en Ligne</name>
+  </author>
+  <entry>
+    <id>https://cactusenligne.ca/products/1386883678295</id>
+    <published>2019-12-19T10:23:23-05:00</published>
+    <updated>2019-12-19T10:23:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/e38bd83af578077b65a31424bd24d085.png?v=1578942589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 500.00
+            <a href="https://cactusenligne.ca/products/gift-card">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a Cactus en ligne gift card.</p>
+<p>Gift cards are delivered by email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift cards</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1386883678295</id>
+      <title>$10.00</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1386883678295</id>
+      <title>$25.00</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1386883678295</id>
+      <title>$50.00</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1386883678295</id>
+      <title>$75.00</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1386883678295</id>
+      <title>$100.00</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1386883678295</id>
+      <title>$150.00</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1386883678295</id>
+      <title>$200.00</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1386883678295</id>
+      <title>$250.00</title>
+      <s:price currency="CAD">250.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1386883678295</id>
+      <title>$500.00</title>
+      <s:price currency="CAD">500.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

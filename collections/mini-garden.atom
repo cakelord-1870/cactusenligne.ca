@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cactusenligne.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cactusenligne.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cactusenligne.ca/collections/mini-garden.atom"/>
+  <title>Cactus en Ligne</title>
+  <updated>2021-06-11T12:18:22-04:00</updated>
+  <author>
+    <name>Cactus en Ligne</name>
+  </author>
+  <entry>
+    <id>https://cactusenligne.ca/products/5086940627079</id>
+    <published>2021-06-11T12:18:22-04:00</published>
+    <updated>2021-06-11T12:18:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/edible-viola-minipot"/>
+    <title>Edible Viola - Minipot</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/MINI-PEN.jpg?v=1591366984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The Minipots collection offers you a variety of seeds to grow in a pot made of rice hulls and its assorted saucer. They are biodegradable et sustainable both outside and inside.</span></p>
+<p><span>Contents: biodegradable pot &amp; saucer, seeds, organic for seedling, elastic &amp; instructions.<br>Dimensions : 4 x 4 x 3 (inch)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>garden</s:tag>
+    <s:tag>mano verde</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5086940627079</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>MINI-PEN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2010019168343</id>
+    <published>2021-04-30T10:26:37-04:00</published>
+    <updated>2021-04-30T10:26:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/cayenne-pepper"/>
+    <title>Cayenne Pepper</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/BX-LEG-PIM.jpg?v=1578942511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fresh produce grown at home, all year long. Simply plant the enclosed seed packet <br>in the leak-proof box, water, place on a sunny windowsill, and enjoy.<br><br>Includes: choice seeds, organic soil, elastic, recyclable planting box and instructions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cayenne</s:tag>
+    <s:tag>mini garden</s:tag>
+    <s:tag>pepper</s:tag>
+    <s:tag>seeds</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2010019168343</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>BX-LEG-PIM</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/6578546671779</id>
+    <published>2021-03-13T10:38:02-05:00</published>
+    <updated>2021-03-13T10:38:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/copy-of-herbs"/>
+    <title>Herbs 2</title>
+    <s:type>Mini Garden</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/TRIO-ARO2-550x550.jpg?v=1615649820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Mini Garden<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Parsley, thyme &amp; coriander.<br>Trios of organic plants and flowers that grow together &amp; complement each other, offering color, <br>flavourful, aromatic &amp; healthy ingredients for the kitchen.<br><br>Content: biodegradable pot &amp; saucer, seeds, organic soil, elastic &amp; instructions.</p>
+<p> </p>
+<p><meta charset="utf-8"><span>Dimensions : 7 x 7 x 5 (inches)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6578546671779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>TRIO-ARO2</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5086941053063</id>
+    <published>2020-06-04T13:23:10-04:00</published>
+    <updated>2020-06-04T13:23:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/cherry-tomato-minipot"/>
+    <title>Cherry Tomato - Minipot</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/MINI-TOM-980x980.jpg?v=1591366982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The Minipots collection offers you a variety of seeds to grow in a pot made of rice hulls and its assorted saucer. They are biodegradable et sustainable both outside and inside.</span></p>
+<p><span>Contents: biodegradable pot &amp; saucer, seeds, organic for seedling, elastic &amp; instructions.<br>Dimensions : 4 x 4 x 3 (inch)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>garden</s:tag>
+    <s:tag>mano verde</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5086941053063</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>MINI-TOM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5086940004487</id>
+    <published>2020-06-04T13:23:10-04:00</published>
+    <updated>2020-06-04T13:23:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/oregano-minipot"/>
+    <title>Origan/Oregano - Minipot</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/MINI-ORI.jpg?v=1591369094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The Minipots collection offers you a variety of seeds to grow in a pot made of rice hulls and its assorted saucer. They are biodegradable et sustainable both outside and inside.</span></p>
+<p><span>Contents: biodegradable pot &amp; saucer, seeds, organic for seedling, elastic &amp; instructions.<br>Dimensions : 4 x 4 x 3 (inch)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>garden</s:tag>
+    <s:tag>mano verde</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5086940004487</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5086939578503</id>
+    <published>2020-06-04T13:23:10-04:00</published>
+    <updated>2020-06-04T13:23:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/munstead-lavener-minipot"/>
+    <title>Lavande/Lavender - Minipot</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/MINI-LAV.jpg?v=1591369093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The Minipots collection offers you a variety of seeds to grow in a pot made of rice hulls and its assorted saucer. They are biodegradable et sustainable both outside and inside.</span></p>
+<p><span>Contents: biodegradable pot &amp; saucer, seeds, organic for seedling, elastic &amp; instructions.<br>Dimensions : 4 x 4 x 3 (inch)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>garden</s:tag>
+    <s:tag>lavender</s:tag>
+    <s:tag>mano verde</s:tag>
+    <s:tag>seeds</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5086939578503</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>MINI-LAV</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5086937022599</id>
+    <published>2020-06-04T13:23:10-04:00</published>
+    <updated>2020-06-04T13:23:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/chives-minipot"/>
+    <title>Ciboulette/Chives - Minipot</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/MINI-CIB.jpg?v=1591366983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The Minipots collection offers you a variety of seeds to grow in a pot made of rice hulls and its assorted saucer. They are biodegradable et sustainable both outside and inside.</span></p>
+<meta charset="utf-8">
+<p><span>Contents: biodegradable pot &amp; saucer, seeds, organic for seedling, elastic &amp; instructions.<br>Dimensions : 4 x 4 x 3 (inch)<br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chives</s:tag>
+    <s:tag>ciboulette</s:tag>
+    <s:tag>garden</s:tag>
+    <s:tag>mano verde</s:tag>
+    <s:tag>seeds</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5086937022599</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2011769110615</id>
+    <published>2019-03-21T11:57:12-04:00</published>
+    <updated>2019-03-21T11:57:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/teas"/>
+    <title>Teas</title>
+    <s:type>Mini Garden</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/TRIO-TISA.jpg?v=1579271320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Mini Garden<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Chamomille, catmint and lemon balm.<br><br>Trios of organic plants and flowers that grow together &amp; complement each other, offering color, <br>flavourful, aromatic &amp; healthy ingredients for the kitchen.<br><br>Content: biodegradable pot &amp; saucer, seeds, organic soil, elastic &amp; instructions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2011769110615</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>TRIO-TISA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2011765997655</id>
+    <published>2019-03-21T11:50:57-04:00</published>
+    <updated>2019-03-21T11:50:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/edible-flowers"/>
+    <title>Edible Flowers</title>
+    <s:type>Mini Garden</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/TRIO-COM.jpg?v=1578942567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Mini Garden<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Viola, nasturtium and chamomille.<br><br>Trios of organic plants and flowers that grow together &amp; complement each other, offering color, <br>flavourful, aromatic &amp; healthy ingredients for the kitchen.<br><br>Content: biodegradable pot &amp; saucer, seeds, organic soil, elastic &amp; instructions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2011765997655</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>TRIO-COM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2011764883543</id>
+    <published>2019-03-21T11:49:36-04:00</published>
+    <updated>2019-03-21T11:49:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/basils"/>
+    <title>Basil Trio</title>
+    <s:type>Mini Garden</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/TRIO-BAS.jpg?v=1578942497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Mini Garden<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Genovese, purple and lemon basil.<br><br>Trios of organic plants and flowers that grow together &amp; complement each other, offering color, <br>flavourful, aromatic &amp; healthy ingredients for the kitchen.<br><br>Content: biodegradable pot &amp; saucer, seeds, organic soil, elastic &amp; instructions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2011764883543</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>TRIO-BAS</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2011763933271</id>
+    <published>2019-03-21T11:47:12-04:00</published>
+    <updated>2019-03-21T11:47:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/herbs"/>
+    <title>Herbs</title>
+    <s:type>PHYSICAL</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/TRIO-AROM.jpg?v=1578942623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>PHYSICAL<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Genovese basil, chives and oregano.<br>Trios of organic plants and flowers that grow together &amp; complement each other, offering color, <br>flavourful, aromatic &amp; healthy ingredients for the kitchen.<br><br>Content: biodegradable pot &amp; saucer, seeds, organic soil, elastic &amp; instructions.</p>
+<p><meta charset="utf-8"><span>Dimensions : 7 x 7 x 5 (inches)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2011763933271</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>TRIO-AROM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2011741028439</id>
+    <published>2019-03-21T11:10:23-04:00</published>
+    <updated>2019-03-21T11:10:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/basilic-genois-genovese-basil"/>
+    <title>Basilic Génois - Genovese Basil</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/MINI-BAS_2.jpg?v=1578942495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Minipots collection offers you a variety of seeds to grow in a pot made of rice hulls and its<br>assorted saucer. Those products are organic, biodegradables et durable both outside and inside.<br><br>Content: biodegradable pot &amp; saucer, seeds, organic soil, elastic &amp; instructions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basil</s:tag>
+    <s:tag>mini garden</s:tag>
+    <s:tag>seeds</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2011741028439</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>MINI-BAS</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2010476970071</id>
+    <published>2019-03-20T15:47:46-04:00</published>
+    <updated>2019-03-20T15:47:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/sunflower-2"/>
+    <title>Sunflower [Pre-order]</title>
+    <s:type>PHYSICAL</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/ECOP-TOU.jpg?v=1579271314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>PHYSICAL<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sunflower<br>Germination : 8-10 days<br>(microgreens only)<br>Soak time : 4-8 hours<br>Methods : on soil, in jar or sprouter<br><br>Housed in a modern metal tin with fresh graphics, those varieties<br>of seeds can grow at home all year long. Rich in vitamins and minerals, sprouts are<br>a healthy solution for your sandwiches &amp;salads. They are easy to grow and offer<br>flavor and freshness to your meals. Use them with different methods<br>such such as on soil, in a jar or with a sprouter.<br><br>Content: reusable metal tin, seeds.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2010476970071</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>ECOP-TOU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2010475069527</id>
+    <published>2019-03-20T15:42:58-04:00</published>
+    <updated>2019-03-20T15:42:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/sandwich-booster-1"/>
+    <title>Sandwich Booster</title>
+    <s:type>Mini Garden</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/ECOP-SB.jpg?v=1579271273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Mini Garden<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Clover, alfalfa, radish and mustard,<br>Germination: 3-5 days (sprouts only)<br>Soak time: 4-8 hours<br>Methods: in jar or sprouter<br><br>Housed in a modern metal tin with fresh graphics, those varieties<br>of seeds can grow at home all year long. Rich in vitamins and minerals, sprouts are<br>a healthy solution for your sandwiches &amp;salads. They are easy to grow and offer<br>flavor and freshness to your meals. Use them with different methods<br>such such as on soil, in a jar or with a sprouter.<br><br>Content: reusable metal tin, seeds.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2010475069527</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>ECOP-SB</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2010472611927</id>
+    <published>2019-03-20T15:37:38-04:00</published>
+    <updated>2019-03-20T15:37:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/rose-radish"/>
+    <title>Rose Radish [Pre-order]</title>
+    <s:type>PHYSICAL</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/ECOP-RAD.jpg?v=1579271271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>PHYSICAL<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rose radish<br>Germination : 4-5 days (sprouts),<br>10-12 (microgreens)<br>Soak time : 4-6 hours<br>Methods : on soil, in jar or sprouter<br><br>Housed in a modern metal tin with fresh graphics, those varieties<br>of seeds can grow at home all year long. Rich in vitamins and minerals, sprouts are<br>a healthy solution for your sandwiches &amp;salads. They are easy to grow and offer<br>flavor and freshness to your meals. Use them with different methods<br>such such as on soil, in a jar or with a sprouter.<br><br>Content: reusable metal tin, seeds.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2010472611927</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>ECOP-RAD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2010470416471</id>
+    <published>2019-03-20T15:33:46-04:00</published>
+    <updated>2019-03-20T15:33:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/speckled-pea-1"/>
+    <title>Speckled Pea [Pre-order]</title>
+    <s:type>PHYSICAL</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/ECOP-POI.jpg?v=1579271295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>PHYSICAL<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Speckled pea<br>Germination : 8-10 days (microgreens only)<br>Soak time : 4-8 hours<br>Methods : on soil, in jar or sprouter<br><br>Housed in a modern metal tin with fresh graphics, those varieties of seeds can grow at home all year long. Rich in vitamins and minerals, sprouts are a healthy solution for your sandwiches &amp;salads. They are easy to grow and offer flavor and freshness to your meals. Use them with different methods such such as on soil, in a jar or with a sprouter.<br><br>Content: reusable metal tin, seeds.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2010470416471</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>ECOP-POI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2010466877527</id>
+    <published>2019-03-20T15:27:50-04:00</published>
+    <updated>2019-03-20T15:27:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/mustard-1"/>
+    <title>Mustard [Pre-order]</title>
+    <s:type>PHYSICAL</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/ECOP-MOU.jpg?v=1579271228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>PHYSICAL<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mustard<br>Germination : 3-6 days (sprouts), 10-12<br>(microgreens)<br>Soak time : 2-3 hours<br>Methods : on soil, sprouter or in jar<br><br>Housed in a modern metal tin with fresh graphics, those varieties<br>of seeds can grow at home all year long. Rich in vitamins and minerals, sprouts are<br>a healthy solution for your sandwiches &amp;salads. They are easy to grow and offer<br>flavor and freshness to your meals. Use them with different methods<br>such such as on soil, in a jar or with a sprouter.<br><br>Content: reusable metal tin, seeds.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2010466877527</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>ECOP-MOU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2010466123863</id>
+    <published>2019-03-20T15:26:05-04:00</published>
+    <updated>2019-03-20T15:26:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/mediterranean-mix-1"/>
+    <title>Spicy blend [Pre-order]</title>
+    <s:type>PHYSICAL</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/ECOP-MED.jpg?v=1579271218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>PHYSICAL<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Broccoli, broccoli raab, radish, mustard and arugula<br>Germination: 2-3 days (sprouts), 8-12 (microgreens)<br>Soak time: 2-3 hours<br>Methods: on soil, in jar or sprouter<br><br>Housed in a modern metal tin with fresh graphics, those varieties of seeds can grow at home all year long. Rich in vitamins and minerals, sprouts are a healthy solution for your sandwiches &amp;salads. They are easy to grow and offer flavor and freshness to your meals. Use them with different methods such such as on soil, in a jar or with a sprouter.<br><br>Content: reusable metal tin, seeds.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2010466123863</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>ECOP-MED</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2010465501271</id>
+    <published>2019-03-20T15:23:51-04:00</published>
+    <updated>2019-03-20T15:23:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/alfalfa"/>
+    <title>Alfalfa</title>
+    <s:type>Plant</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/ECOP-LUZ.jpg?v=1578942476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Plant<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Alfalfa<br>Germination : 4 to 5 days (sprouts only)<br>Soak time : 4-8 <br>Methods : on soil, in jar or sprouter<br><br>Housed in a modern metal tin with fresh graphics, those varieties<br>of seeds can grow at home all year long. Rich in vitamins and minerals, sprouts are<br>a healthy solution for your sandwiches &amp;salads. They are easy to grow and offer<br>flavor and freshness to your meals. Use them with different methods<br>such such as on soil, in a jar or with a sprouter.<br><br>Content: reusable metal tin, seeds.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2010465501271</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>ECOP-LUZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2010464583767</id>
+    <published>2019-03-20T15:21:28-04:00</published>
+    <updated>2019-03-20T15:21:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/coriander-1"/>
+    <title>Coriander</title>
+    <s:type>PHYSICAL</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/ECOP-COR.jpg?v=1578942528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>PHYSICAL<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coriander</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2010464583767</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>ECOP-COR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2010462027863</id>
+    <published>2019-03-20T15:16:02-04:00</published>
+    <updated>2019-03-20T15:16:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/thanks"/>
+    <title>Thanks</title>
+    <s:type>PHYSICAL</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/BX-SOU-ME.jpg?v=1579271323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>PHYSICAL<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Zinnias.<br><br>Think of them as a card and gift in one. Each box contains a special selection of seeds, and everything else one needs to make them grow indoors all year long.<br><br>Includes: choice seeds, organic soil, elastic, recyclable planting box and instructions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2010462027863</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>BX-SOU-ME</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2010461143127</id>
+    <published>2019-03-20T15:11:23-04:00</published>
+    <updated>2019-03-20T15:11:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/i-love-you"/>
+    <title>I love you</title>
+    <s:type>Mini Garden</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/BX-SOU-JTA.JPG?v=1578942644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Mini Garden<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nemesias.<br><br>Think of them as a card and gift in one. Each box contains a special selection of seeds, and everything else one needs to make them grow indoors all year long.<br><br>Includes: choice seeds, organic soil, elastic, recyclable planting box and instructions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2010461143127</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>BX-SOU-JTA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2010459406423</id>
+    <published>2019-03-20T15:09:20-04:00</published>
+    <updated>2019-03-20T15:09:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/a-baby-yaaay"/>
+    <title>A baby! Yaaay!</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/BX-SOU-BB.jpg?v=1578942464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Forget-me-not, dianthus and zinnias.<br>Think of them as a card and gift in one. Each box contains a special selection of seeds, and everything else one needs to make them grow indoors all year long.<br><br>Includes: choice seeds, organic soil, elastic, recyclable planting box and instructions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cadeau</s:tag>
+    <s:tag>dianthus</s:tag>
+    <s:tag>forget-me-not</s:tag>
+    <s:tag>myosotis</s:tag>
+    <s:tag>seeds</s:tag>
+    <s:tag>semences</s:tag>
+    <s:tag>zinnias</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2010459406423</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>BX-SOU-BB</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2010458390615</id>
+    <published>2019-03-20T15:07:12-04:00</published>
+    <updated>2019-03-20T15:07:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/congratulations"/>
+    <title>Congratulations</title>
+    <s:type>PHYSICAL</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/BX-SOU-FE.jpg?v=1578942527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>PHYSICAL<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Forget-me-not, dianthus and zinnias.<br>Think of them as a card and gift in one. Each box contains a special selection of seeds, and everything else one needs to make them grow indoors all year long.<br><br>Includes: choice seeds, organic soil, elastic, recyclable planting box and instructions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2010458390615</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>BX-SOU-FE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/2010457735255</id>
+    <published>2019-03-20T15:04:42-04:00</published>
+    <updated>2019-03-20T15:04:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/happy-birthday"/>
+    <title>Happy Birthday</title>
+    <s:type>PHYSICAL</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/BX-SOU-BJ.jpg?v=1578942613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>PHYSICAL<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nemesias.<br><br>Think of them as a card and gift in one. Each box contains a special selection of seeds, and everything else one needs to make them grow indoors all year long.<br><br>Includes: choice seeds, organic soil, elastic, recyclable planting box and instructions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/2010457735255</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>BX-SOU-BJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

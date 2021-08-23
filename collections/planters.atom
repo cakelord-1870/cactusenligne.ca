@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cactusenligne.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cactusenligne.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cactusenligne.ca/collections/planters.atom"/>
+  <title>Cactus en Ligne</title>
+  <updated>2021-07-05T08:48:39-04:00</updated>
+  <author>
+    <name>Cactus en Ligne</name>
+  </author>
+  <entry>
+    <id>https://cactusenligne.ca/products/7079556808867</id>
+    <published>2021-07-05T08:48:39-04:00</published>
+    <updated>2021-07-05T08:48:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/pot-cover-10cm-various-colors"/>
+    <title>Pot Cover 10cm - Various Colors</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en Ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-pot-cover-glass-grey-10.jpg?v=1625489096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en Ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            9.99 - 10.99
+            <a href="https://cactusenligne.ca/products/pot-cover-10cm-various-colors">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Color: Glass Grey, Crème/Sesame</p>
+<p>Size: 11cm</p>
+<p>Material: Ceramic</p>
+<p>No drainage hole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cache-pot</s:tag>
+    <s:tag>cement planter</s:tag>
+    <s:tag>ceramic planter</s:tag>
+    <s:tag>planter</s:tag>
+    <s:tag>pots</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/7079556808867</id>
+      <title>Glass Grey</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/7079556808867</id>
+      <title>Crème/Sesame</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/7079482884259</id>
+    <published>2021-07-05T08:23:18-04:00</published>
+    <updated>2021-07-05T08:23:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/pot-cover-taupe-stone"/>
+    <title>Pot Cover 11cm - Various Colors</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en Ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-pot-cover-taupe-stone.jpg?v=1625487799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en Ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Color: Taupe, Grey Stone</p>
+<p>Size: 11cm</p>
+<p>Material: Ceramic</p>
+<p>No drainage hole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cache-pot</s:tag>
+    <s:tag>cement planter</s:tag>
+    <s:tag>ceramic planter</s:tag>
+    <s:tag>planter</s:tag>
+    <s:tag>pots</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/7079482884259</id>
+      <title>Taupe Stone</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/7079482884259</id>
+      <title>Grey Stone</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/7021315981475</id>
+    <published>2021-06-06T08:11:28-04:00</published>
+    <updated>2021-06-06T08:11:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/black-ridge-planter"/>
+    <title>Black Ridge Planter 5.5&quot;</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-black-ridge-planter-a.jpg?v=1622981322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Make a bold design statement with this striking Medium Ridge Planter in black. Crafted out of cement with unique, asymmetrical rippled detailing on its exterior, this planter brings a touch of industrial flair to nature — and nature never looked so good!</span></p>
+<ul>
+<li>Size: 5.5" square</li>
+<li>Colour: Black</li>
+<li>Capacity: O:4.5"</li>
+<li>Material: Cement</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cement planter</s:tag>
+    <s:tag>planter</s:tag>
+    <s:tag>square planter</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/7021315981475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>27-RIPPLE-MD-BLK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/6982258032803</id>
+    <published>2021-05-23T11:33:57-04:00</published>
+    <updated>2021-05-23T11:33:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/medium-modern-face-vase"/>
+    <title>Medium Modern Face Vase</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-medium-modern-face-vase.jpg?v=1621784019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<section class="product-details" data-mce-fragment="1">
+<div class="product-discription" data-mce-fragment="1">
+<p data-mce-fragment="1">Bring a touch of contemporary design to your decor with this striking medium-sized Modern Face Vase. Crafted out of stoneware, this whitewashed vase features a unique minimalist-style face to complement any plant or flowers.</p>
+<ul>
+<li>Size: 6.5"H</li>
+<li>Colour: Whitewash</li>
+<li>Capacity:  O: 3" x 3.5"</li>
+<li>Material: Stoneware</li>
+</ul>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6982258032803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/6982255575203</id>
+    <published>2021-05-23T11:22:45-04:00</published>
+    <updated>2021-05-23T11:22:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/small-light-leaf-planter-5d"/>
+    <title>Light Leaf Planter 5&quot;D</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en Ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-small-light-leaf-planter-a.jpg?v=1621783292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en Ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">The subtle yet unique design of this Small Light Leaf Planter makes a wonderful addition to any style of decor. Crafted out of cement, this white planter features an understated textured leaf pattern to complement your favourite plant or flowers.</span></p>
+<ul>
+<li><span data-mce-fragment="1">Size: 5"D</span></li>
+<li><span data-mce-fragment="1">Colour: White</span></li>
+<li><span data-mce-fragment="1">Capacity: 4"O</span></li>
+<li><span data-mce-fragment="1">Material: Cement</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6982255575203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>27-TERRAIN-837-SM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/6982254493859</id>
+    <published>2021-05-23T11:16:29-04:00</published>
+    <updated>2021-05-23T11:16:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/small-ridge-planter"/>
+    <title>Orange Ridge Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-small-ridge-orange-planter.jpg?v=1621782751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            9.99 - 13.99
+            <a href="https://cactusenligne.ca/products/small-ridge-planter">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Make a bold design statement with this striking Small Ridge Planter in orange. Crafted out of cement with unique, asymmetrical rippled detailing on its exterior, this planter brings a touch of industrial flair to nature — and nature never looked so good!</span></p>
+<ul>
+<li>Size: 3.5" square or 5.5" square</li>
+<li>Colour: Orange</li>
+<li>Capacity: O:3" or O:4.5"</li>
+<li>Material: Cement</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cement planter</s:tag>
+    <s:tag>planter</s:tag>
+    <s:tag>square planter</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6982254493859</id>
+      <title>3.5&quot;</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6982254493859</id>
+      <title>5.5&quot;</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/3960143216727</id>
+    <published>2021-05-22T14:26:45-04:00</published>
+    <updated>2021-05-22T14:26:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/small-wavy-ripple-planter-preorder"/>
+    <title>Small Wavy Ripple Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/27-terrain-754-sm-alt2.jpg?v=1589580792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Bring a touch of modern yet understated design to your decor with this stylish Small Wavy Ripple Planter. Crafted out of cement, this white planter features an elegant, textured wavy ripple pattern for a subtle complement to your favourite plant or flowers.</span>
+<div>
+<div><br></div>
+</div>
+<ul></ul>
+</div>
+<ul>
+<li>Size: 5'' D</li>
+<li>Colour: white</li>
+<li>No hole at bottom</li>
+<li>Material: cement</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/3960143216727</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>27-TERRAIN-754-SM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5052745023623</id>
+    <published>2021-05-22T14:16:45-04:00</published>
+    <updated>2021-05-22T14:16:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/rosy-cheek-head-planter-5-5-h-preorder"/>
+    <title>Medium Rosy Cheek Head Planter 4.5&apos;&apos; D</title>
+    <s:type>Plant</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/27-kinfolk-674-alt2.jpg?v=1590158206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Plant<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div>
+<div><em></em></div>
+</div>
+<ul></ul>
+<p><span>Give this rosy-cheeked head-shaped planter a colourful hairdo with your favourite plants or flowers! Part of our Kinfolk collection of playful cement planters, this medium-sized waterproof planter is the perfect complement to any plant, indoors or out.</span><br></p>
+<ul>
+<li><span>Size: 5.5''H</span></li>
+<li><span>Colour: <meta charset="utf-8">Ivory/pink</span></li>
+<li><span>Capacity: 4.5"O</span></li>
+<li><span>Material: Cement</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5052745023623</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>27-KINFOLK-674</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/6810202833059</id>
+    <published>2021-04-25T14:39:00-04:00</published>
+    <updated>2021-04-25T14:39:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/small-mesh-texture-planter"/>
+    <title>Mesh Texture Planter 5&quot;</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-charcoal-mesh-planter.jpg?v=1619375966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>5: Diameter</li>
+<li><span data-mce-fragment="1">Color: Charcoal</span></li>
+<li>Cement</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cactus pot</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6810202833059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/6808579375267</id>
+    <published>2021-04-25T11:03:01-04:00</published>
+    <updated>2021-04-25T11:03:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/yellow-marble-planter-5-5"/>
+    <title>Yellow Marble Planter 5.5&quot;</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en Ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-yellow-marble-planter.jpg?v=1619362831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en Ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Yellow Marble Planter 5.5"</li>
+<li>Ceramic</li>
+<li>Made in Germany</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cactus pot</s:tag>
+    <s:tag>ceramic planter</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>planter</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6808579375267</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/6808417468579</id>
+    <published>2021-04-25T10:48:15-04:00</published>
+    <updated>2021-04-25T10:48:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/siena-mini-smooth-pot-4"/>
+    <title>Siena Mini Smooth Pot 4&quot;</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en Ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-siena-ceramic-planter.jpg?v=1619362043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en Ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Made in Italy</li>
+<li>Ceramic planter 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic planter</s:tag>
+    <s:tag>décoration</s:tag>
+    <s:tag>made in italy</s:tag>
+    <s:tag>plant pot</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6808417468579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/6808293867683</id>
+    <published>2021-04-25T10:36:19-04:00</published>
+    <updated>2021-04-25T10:36:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/greige-lipped-cylinder-planter-4-5"/>
+    <title>Greige Lipped Cylinder Planter 4&quot;</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en Ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-pot-cover-greige-lipped-11.jpg?v=1625489713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en Ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Color: Greige</div>
+<div>Size: 11cm</div>
+<div>Material: Clay</div>
+<div>With drainage hole</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cactus pot</s:tag>
+    <s:tag>cement planter</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>maison</s:tag>
+    <s:tag>planter</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6808293867683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/6671070363811</id>
+    <published>2021-04-09T20:28:16-04:00</published>
+    <updated>2021-04-09T20:28:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/cement-plant-pot"/>
+    <title>Cement Plant Pot</title>
+    <s:type>PHYSICAL</s:type>
+    <s:vendor>Cactus en Ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/65_quarry_sm_gry.jpg?v=1618000717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en Ligne<br>
+        <strong>Type: </strong>PHYSICAL<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">A classic planter in pebbled cement in a contemporary colour. Fits a standard 4″ grower’s pot. Store inside during winter months; not frost-proof.</span></p>
+<ul>
+<li>
+<span>Size: 4.5'' D  </span><br>
+</li>
+<li>
+<span>Colour: Grey </span><br>
+</li>
+<li>
+<span>Material: Cement</span><br>
+</li>
+<li><span>Capacity: 4'' plant</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cache-pot</s:tag>
+    <s:tag>cactus pot</s:tag>
+    <s:tag>cement</s:tag>
+    <s:tag>cement planter</s:tag>
+    <s:tag>ciment</s:tag>
+    <s:tag>decorative pot</s:tag>
+    <s:tag>décoration</s:tag>
+    <s:tag>intérieur</s:tag>
+    <s:tag>maison</s:tag>
+    <s:tag>plant pot</s:tag>
+    <s:tag>pot</s:tag>
+    <s:tag>pot décoratif</s:tag>
+    <s:tag>pots</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6671070363811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>65-QUARRY/SM GRY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/6670981300387</id>
+    <published>2021-04-09T20:08:53-04:00</published>
+    <updated>2021-04-09T20:08:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/mini-square-planter"/>
+    <title>Mini Square Planter 2.5&quot;</title>
+    <s:type>PHYSICAL</s:type>
+    <s:vendor>Cactus en Ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/Minisqareplanter2.jpg?v=1617999823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en Ligne<br>
+        <strong>Type: </strong>PHYSICAL<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Complement any style of decor with this Mini Square Planter. Crafted out of stoneware, this off-white waterproof planter is an elegant example of contemporary design to accentuate your favourite small plants or succulents. Bottom padded with foam feet to protect your surfaces.</span></p>
+<ul>
+<li>
+<span>Size: 2.5" SQ  </span><br>
+</li>
+<li>
+<span>Colour: white</span><br>
+</li>
+<li>
+<span>Material: Stoneware </span><br>
+</li>
+<li><span>Capacity: 2.5'' plant maximum</span></li>
+<li>Plant not included</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cactus montréal</s:tag>
+    <s:tag>cactus pot</s:tag>
+    <s:tag>décoration</s:tag>
+    <s:tag>intérieur</s:tag>
+    <s:tag>maison</s:tag>
+    <s:tag>mini cactus</s:tag>
+    <s:tag>plantes succulentes</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6670981300387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>27-NIRVANA/6090</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/6552154439843</id>
+    <published>2021-03-03T14:16:04-05:00</published>
+    <updated>2021-03-03T14:16:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/pot-cover-2-5-various-colors"/>
+    <title>Pot Cover 3.5&quot; Various Colors</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-pot-matt-panna_c95e45a4-679b-4355-8a74-44d7fc929266.jpg?v=1620234713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">3.5'' diameter</li>
+<li data-mce-fragment="1">Ceramic<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Made in Germany</li>
+<li data-mce-fragment="1">No hole</li>
+<li data-mce-fragment="1">Colors: A-Panna, B-Granny Green, C-Taupe, D-Rubin</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abordable</s:tag>
+    <s:tag>cache pot</s:tag>
+    <s:tag>cactus pot</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>decorative pot</s:tag>
+    <s:tag>Minimalist</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6552154439843</id>
+      <title>Panna</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6552154439843</id>
+      <title>Granny Green</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6552154439843</id>
+      <title>Taupe</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6552154439843</id>
+      <title>Rubin</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/6552114233507</id>
+    <published>2021-03-03T13:56:17-05:00</published>
+    <updated>2021-03-03T13:56:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/grey-elegance-5"/>
+    <title>Grey Elegance 4.5&quot;</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/GreyElegance4.5in.jpg?v=1614797714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">4.5'' diameter</li>
+<li data-mce-fragment="1">Ceramic<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Made in Germany</li>
+<li data-mce-fragment="1">No hole</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cache-pot</s:tag>
+    <s:tag>cactus en ligne</s:tag>
+    <s:tag>cactus en pot</s:tag>
+    <s:tag>cactus pot</s:tag>
+    <s:tag>cactusenligne</s:tag>
+    <s:tag>cadeau</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>decorative pot</s:tag>
+    <s:tag>déco</s:tag>
+    <s:tag>décoratif</s:tag>
+    <s:tag>décorative</s:tag>
+    <s:tag>garden</s:tag>
+    <s:tag>Minimalist</s:tag>
+    <s:tag>plant pot</s:tag>
+    <s:tag>planter</s:tag>
+    <s:tag>pot</s:tag>
+    <s:tag>pot décoratif</s:tag>
+    <s:tag>pots</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/6552114233507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>328</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5960356987043</id>
+    <published>2020-12-26T08:23:59-05:00</published>
+    <updated>2020-12-26T08:23:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/hippie-flower-planter-4"/>
+    <title>Small Hippie Flower Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/27-berkeley-563-sm.jpg?v=1608989065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-size: 1.0em;"><span style="font-size: 1.0em;"><span data-mce-fragment="1">Flower power gets a stylish makeover with this uniquely patterned Small Hippie Flower Planter. Crafted out of cement, this cream-coloured planter is accented with a gorgeous textured green floral pattern for a contemporary, understated complement to any style of decor.<br><br></span></span></span>
+<ul>
+<li><span style="font-size: 1.0em;">Size: 4'' D</span></li>
+<li><span data-mce-fragment="1">Colour: Ivory/green</span></li>
+<li>
+<span data-mce-fragment="1">Material: Cement</span> </li>
+<li>Capacity: 3.5"D</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5960356987043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>460</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5960355446947</id>
+    <published>2020-12-26T08:23:08-05:00</published>
+    <updated>2020-12-26T08:23:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/pink-etched-planter-5"/>
+    <title>Pink Etched Planter 5&apos;&apos;</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/27-batik-pnk-sm.jpg?v=1608989009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Complement your favourite plant, cacti or succulent with this rustically simple yellow Etched Planter. Crafted out of stoneware, this ivory planter is accented with a simple yet striking primitivist green line pattern that makes a superb match for any style of decor.</span></p>
+<p><span data-mce-fragment="1">Size: 5'' D</span></p>
+<p><span data-mce-fragment="1">Colour: yellow</span></p>
+<p><span data-mce-fragment="1">Material: cement</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5960355446947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5960353743011</id>
+    <published>2020-12-26T08:22:11-05:00</published>
+    <updated>2020-12-26T08:22:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/yellow-etched-planter-5"/>
+    <title>Yellow Etched Planter 5&apos;&apos;</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/27-batik-ylw-sm.jpg?v=1608988958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Complement your favourite plant, cacti or succulent with this rustically simple yellow Etched Planter. Crafted out of stoneware, this ivory planter is accented with a simple yet striking primitivist green line pattern that makes a superb match for any style of decor.</span></p>
+<p><span data-mce-fragment="1">Size: 5'' D</span></p>
+<p><span data-mce-fragment="1">Colour: yellow</span></p>
+<p><span data-mce-fragment="1">Material: cement</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5960353743011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5960352366755</id>
+    <published>2020-12-26T08:21:20-05:00</published>
+    <updated>2020-12-26T08:21:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/etched-planter-5"/>
+    <title>Green Etched Planter 5&apos;&apos;</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/27-batik-grn-sm.jpg?v=1608988881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Complement your favourite plant, cacti or succulent with this rustically simple Green Etched Planter. Crafted out of stoneware, this ivory planter is accented with a simple yet striking primitivist green line pattern that makes a superb match for any style of decor.</span></p>
+<p><span data-mce-fragment="1">Size: 5'' D</span></p>
+<p><span data-mce-fragment="1">Colour: green</span></p>
+<p><span data-mce-fragment="1">Material: cement</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5960352366755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5960348532899</id>
+    <published>2020-12-26T08:18:58-05:00</published>
+    <updated>2020-12-26T08:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/mini-kissing-face-planter-3"/>
+    <title>Mini Kissing Face Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/27-baci-042.jpg?v=1608988739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The only thing that’s cuter than a kiss? This delightful Mini Kissing Face Planter. Crafted out of cement, this mini planter is sculpted in a style reminiscent of classic Greco-Roman art — featuring a floral-crowned face with pouty, puckered lips to complement your favourite plants or flowers, as well as your decor.<br><br></span></p>
+<ul>
+<li>Size: 4"H</li>
+<li>Capacity: 3"D</li>
+<li>Colour: Grey </li>
+<li>Material: Cement</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5960348532899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>27-BACI-04</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5951406538915</id>
+    <published>2020-12-22T09:40:30-05:00</published>
+    <updated>2020-12-22T09:40:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/apollo-planter-5-5"/>
+    <title>Apollo Planter 5.5&apos;&apos;</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/27-apollo-lg.jpg?v=1608648101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bring the timeless beauty of the Renaissance to your home or office with this stylish Large Apollo Planter. Crafted out of porcelain, this black planter features a stunning illustrated detail from Michelangelo’s Statue of David to complement any of your favourite plants or flowers. Smaller size also available.</span></p>
+<ul>
+<li><span>Size: 5.5"</span></li>
+<li><span>Colour: Black/White</span></li>
+<li><span>Material: Porcelain</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5951406538915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5767920550051</id>
+    <published>2020-10-14T13:00:49-04:00</published>
+    <updated>2020-10-14T13:00:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/small-dot-tripod-planter"/>
+    <title>Small Dot Tripod Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/27-tripod-01-sm.jpg?v=1602694858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Give your favourite plant or flowers the unique home they deserve with this distinctive Small Herringbone Tripod Planter. Crafted out of cement and wood, this black and ivory planter’s modern spin on tribal patterns makes a bold complement to any type of decor.</span></p>
+<ul>
+<li><span data-mce-fragment="1">Size: 4.5"H</span></li>
+<li><span data-mce-fragment="1">Colour: Grey/white</span></li>
+<li><span data-mce-fragment="1">Material: Cement/wood</span></li>
+<li><span data-mce-fragment="1">Capacity: 2.5" D</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5767920550051</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5767919796387</id>
+    <published>2020-10-14T13:00:12-04:00</published>
+    <updated>2020-10-14T13:00:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/small-grid-tripod-planter"/>
+    <title>Small Grid Tripod Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/27-tripod-02-sm.jpg?v=1602694844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Give your favourite plant or flowers the unique home they deserve with this distinctive Small Herringbone Tripod Planter. Crafted out of cement and wood, this black and ivory planter’s modern spin on tribal patterns makes a bold complement to any type of decor.</span></p>
+<ul>
+<li>
+<span style="font-size: 1.4em;">Size: 4.5'' H  </span><br>
+</li>
+<li>
+<span style="font-size: 1.4em;">Colour: grey/white</span><br>
+</li>
+<li>
+<span style="font-size: 1.4em;">Material: Cement/wood  </span><br>
+</li>
+<li>
+<span style="font-size: 1.4em;">Capacity: 2.5'' plant</span><br>
+</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5767919796387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>27-TRIPOD-02-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5767918715043</id>
+    <published>2020-10-14T12:59:41-04:00</published>
+    <updated>2020-10-14T12:59:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/small-angle-line-tripod-planter"/>
+    <title>Small Angle Line Tripod Planter</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/27-tripod-03-sm.jpg?v=1602694789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Give your favourite plant or flowers the unique home they deserve with this distinctive Small Herringbone Tripod Planter. Crafted out of cement and wood, this black and ivory planter’s modern spin on tribal patterns makes a bold complement to any type of decor.</span></p>
+<ul>
+<li>
+<span style="font-size: 1.4em;">Size: 4.5'' H  </span><br>
+</li>
+<li>
+<span style="font-size: 1.4em;">Colour: grey/gold </span><br>
+</li>
+<li>
+<span style="font-size: 1.4em;">Material: Cement/wood  </span><br>
+</li>
+<li>
+<span style="font-size: 1.4em;">Capacity: 2.5'' plant</span><br>
+</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5767918715043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

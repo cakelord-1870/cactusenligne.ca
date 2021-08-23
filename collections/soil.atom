@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cactusenligne.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cactusenligne.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cactusenligne.ca/collections/soil.atom"/>
+  <title>Cactus en Ligne</title>
+  <updated>2020-08-01T10:34:18-04:00</updated>
+  <author>
+    <name>Cactus en Ligne</name>
+  </author>
+  <entry>
+    <id>https://cactusenligne.ca/products/5479224049827</id>
+    <published>2020-08-01T10:34:18-04:00</published>
+    <updated>2020-08-01T10:34:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/chabasai-2l"/>
+    <title>Chabasai 1L</title>
+    <s:type>Soil</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/Chabasai-semis2.jpg?v=1596347149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Soil<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size: 2-5mm</li>
+<li>Bag of 1L </li>
+<li>Allows an abundant production of roots</li>
+<li>Accelerates seed germination and seedling development</li>
+<li><span>Less consumption of fertilizer and water for irrigation</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5479224049827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5479221887139</id>
+    <published>2020-08-01T10:32:44-04:00</published>
+    <updated>2020-08-01T10:32:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/red-lava-rock-2l"/>
+    <title>Red Lava Rock 1L</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/vigoro-bagged-landscape-rocks-440897-64_1000.jpg?v=1596347148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bag of 1L</p>
+<p>Small lava rocks</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5479221887139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>775</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5464875237539</id>
+    <published>2020-07-29T15:44:47-04:00</published>
+    <updated>2020-07-29T15:44:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/coc-mulch-2l"/>
+    <title>Coco Mulch 1L</title>
+    <s:type>Soil</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/116788802_650473185553779_1355173543208749504_n.jpg?v=1596347144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Soil<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<ul>
+<li>Help roots to grow</li>
+<li>Can be mix with soil</li>
+<li>Improve water retention</li>
+</ul>
+<p> </p>
+<meta charset="utf-8">
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5464875237539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5435088666787</id>
+    <published>2020-07-23T13:00:59-04:00</published>
+    <updated>2020-07-23T13:00:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/coconut-peat-2l"/>
+    <title>Coconut Peat 1L</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/112090283_620795321890559_7562670896627081369_n.jpg?v=1595785296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<ul>
+<li>Help roots to grow</li>
+<li>Can be mix with soil</li>
+<li>Improve water retention</li>
+</ul>
+<p> </p>
+<meta charset="utf-8">
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5435088666787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>325</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5401371050147</id>
+    <published>2020-07-15T14:49:29-04:00</published>
+    <updated>2020-07-15T14:49:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/spagnum-moss-2-5l"/>
+    <title>Spagnum Moss 1L</title>
+    <s:type>Soil</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/substrat-orchidee.jpg?v=1595277402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Soil<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5401371050147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5374886314147</id>
+    <published>2020-07-08T16:42:15-04:00</published>
+    <updated>2020-07-08T16:42:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/pierre-ponce-1l"/>
+    <title>Pumice 1L</title>
+    <s:type>Soil</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/received_309922563373249.jpg?v=1596346343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Soil<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div data-mce-fragment="1">
+<span class="Apple-tab-span" data-mce-fragment="1"> </span>• 1 liter of pumice (volcanic stone, pumice)<br data-mce-fragment="1">
+</div>
+<div data-mce-fragment="1">
+<span class="Apple-tab-span" data-mce-fragment="1"> </span>• From Japan<br data-mce-fragment="1">
+</div>
+<div data-mce-fragment="1">
+<span class="Apple-tab-span" data-mce-fragment="1"> </span>• Capacity to absorb water and other nutrients</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cactus soil</s:tag>
+    <s:tag>pumice</s:tag>
+    <s:tag>substrate</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5374886314147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5078674735239</id>
+    <published>2020-05-29T18:35:06-04:00</published>
+    <updated>2020-05-29T18:35:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/perlite-6-preorder"/>
+    <title>Perlite 1L</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/perlite.jpg?v=1595786260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>1 L<br>
+</li>
+<li>White perlite</li>
+<li>Free delivery in Canada with a minimum purchase of $95</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5078674735239</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5078670049415</id>
+    <published>2020-05-29T18:35:06-04:00</published>
+    <updated>2020-05-29T18:35:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/turface-mvp-clay-preorder"/>
+    <title>Turface MVP Clay 1L</title>
+    <s:type>Soil</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/turface.jpg?v=1591367932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Soil<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span mce-data-marked="1">1L</span></li>
+<li><span>Reduces compaction and balances humidity to improve soil condition</span></li>
+<li><span>Can be integrated or used as topsoil</span></li>
+<li>Free delivery in Canada with a minimum purchase of $95</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5078670049415</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/1373266411607</id>
+    <published>2018-08-29T11:11:09-04:00</published>
+    <updated>2018-08-29T11:11:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/terre-pour-cactus"/>
+    <title>Cactus and Succulent Soil</title>
+    <s:type>Soil</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/Soil1.jpg?v=1613860833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Soil<br>
+        <strong>Price: </strong>
+            1.99 - 5.99
+            <a href="https://cactusenligne.ca/products/terre-pour-cactus">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>4 L or 1 L</li>
+<li>Cactus and Succulent Soil</li>
+<li class="li1">
+<span class="s1"></span>Free delivery in Canada with a minimum purchase of $95</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1373266411607</id>
+      <title>1L</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>soil-1</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1373266411607</id>
+      <title>4L</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>soil-2</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+</feed>

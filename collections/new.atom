@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cactusenligne.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cactusenligne.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cactusenligne.ca/collections/new.atom"/>
+  <title>Cactus en Ligne</title>
+  <updated>2021-08-16T12:24:32-04:00</updated>
+  <author>
+    <name>Cactus en Ligne</name>
+  </author>
+  <entry>
+    <id>https://cactusenligne.ca/products/7200381010083</id>
+    <published>2021-08-16T12:24:32-04:00</published>
+    <updated>2021-08-16T12:24:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/calathea-white-star"/>
+    <title>Calathea White Star</title>
+    <s:type>Plant</s:type>
+    <s:vendor>Cactus en Ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-calathea-white-star-a.jpg?v=1629129095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en Ligne<br>
+        <strong>Type: </strong>Plant<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>Perhaps one of the most elegant yet relatively muted designs on a Calathea is that of the Calathea majestica ‘White star’ (goeppertia majestica). Its contrasting white and green foliage with violet undersides and subtle pink blush make a style statement.<br><br></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Shape and size may vary from photo</li>
+<li data-mce-fragment="1">Shipped in a 4" pot to prevent damage to the roots</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Free delivery across Canada with a minimum purchase of $95</span></li>
+<li data-mce-fragment="1">This plant is not shipped during cold season</li>
+</ul>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301" width="50" height="51" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301"> M<span data-mce-fragment="1">edium to bright indirect light</span>
+</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355" width="50" height="50" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355"> Keep moist but well drained. Water every 1-2 weeks.</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750"> Rarely</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672" width="50" height="50" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672"> Non-toxic</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974" width="50" height="50" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974"> Growth : Up to 60 cm</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783"><span data-mce-fragment="1"> Origin : Brazil, South and Central America</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Calathea</s:tag>
+    <s:tag>medallion</s:tag>
+    <s:tag>plante tropicale</s:tag>
+    <s:tag>plantetropicale</s:tag>
+    <s:tag>tropical</s:tag>
+    <s:tag>tropical plant</s:tag>
+    <s:tag>tropicale</s:tag>
+    <s:tag>tropicales</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/7200381010083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>315</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/3932430794839</id>
+    <published>2021-08-10T14:04:44-04:00</published>
+    <updated>2021-08-10T14:04:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/adenium-boehmianum"/>
+    <title>Adenium obesum subsp. Boehmianum (Bushman&apos;s poison)</title>
+    <s:type>Plant</s:type>
+    <s:vendor>CACTUS EN LIGNE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/IMG_7589.JPG?v=1578942465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACTUS EN LIGNE<br>
+        <strong>Type: </strong>Plant<br>
+        <strong>Price: </strong>
+            25.99 - 39.99
+            <a href="https://cactusenligne.ca/products/adenium-boehmianum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Adenium obesum subsp. Boehmianum, or simply known as Adenium boehmianum, is a slow-growing shrub with succulent stems. These are easy plants to grow, provided they get enough sunlight and warmth. <br><br>
+</div>
+<div></div>
+<div></div>
+<div>Many types of Adenium, also known as Desert Rose, come from very arid and rocky regions of Africa and the Arabian Peninsula. These plants start quite small and grow slowly into impressive specimens with thick fat trunks and short upright branches. Adenium can produce many flowers in the spring and fall and it is normal for the leaves to drop in the winter. </div>
+<div><br></div>
+<div>
+<meta charset="utf-8">
+<div data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Shape and size may vary from the photo</li>
+<li data-mce-fragment="1">Shipped in a plastic nursery pot to prevent damage to the roots</li>
+<li data-mce-fragment="1">
+<meta charset="utf-8"> <span data-mce-fragment="1">Free delivery across Canada with a minimum purchase of $95</span>
+</li>
+</ul>
+</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301" width="50" height="51" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301"> Bright light, avoid direct sun on the caudex</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355" width="50" height="50" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355"> Water moderately when 1 inch of soil is dry, reduce in winter</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750"> Large pink and white flowers</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672" width="50" height="50" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672">Toxic to animals</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974" width="50" height="50" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974"> Growth : Tree-like, 1-2 m</div>
+<div data-mce-fragment="1">
+<meta charset="utf-8"> <img data-mce-fragment="1" height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783"><span data-mce-fragment="1"> Origin : Yemen, Saudi Arabia, East Africa</span>
+</div>
+<div data-mce-fragment="1"><span data-mce-fragment="1"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/7_480x480.png?v=1600884116" width="50" height="50" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/7_480x480.png?v=1600884116"> Grown in Canada</span></div>
+<p><span>.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/3932430794839</id>
+      <title>2.5&quot;</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/3932430794839</id>
+      <title>4&quot;</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/7147638849699</id>
+    <published>2021-07-22T18:06:12-04:00</published>
+    <updated>2021-07-22T18:06:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/begonia-venosa"/>
+    <title>Begonia Venosa 2.5&quot;</title>
+    <s:type>Plant</s:type>
+    <s:vendor>Cactus en Ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-begonia-venosa.jpg?v=1626990545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en Ligne<br>
+        <strong>Type: </strong>Plant<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Begonia Venosa, is a semi-succulent, upright type begonia native to Brazil. It has thick, round, leathery leaves that are covered with fine white hair. This stunning plant is meant to be kept as an indoor plant because of its gorgeous foliage and adorable flowers. <br><br></p>
+<ul>
+<li>Shape and size may vary from the photo</li>
+<li>Shipped in a 2.5" pot to prevent damage to the roots</li>
+<li>Free delivery across Canada with a minimum purchase of $95</li>
+<li>Ships from April to Octobre<br><br>
+</li>
+</ul>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301" width="50" height="51" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301"> Bright, indirect <span data-mce-fragment="1">sunlight</span>
+</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355" width="50" height="50" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355"> Water when soil is completely dry</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750"> Fragrant white flowers</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672" width="50" height="50" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672"> Can be toxic to animals</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974" width="50" height="50" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974"> Growth :<span data-mce-fragment="1"> Up to 60cm</span>
+</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783"><span data-mce-fragment="1"> Origin : Brazil</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abordable</s:tag>
+    <s:tag>begonia</s:tag>
+    <s:tag>cactus en ligne</s:tag>
+    <s:tag>cactus montréal</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>déco</s:tag>
+    <s:tag>décor</s:tag>
+    <s:tag>décoratif</s:tag>
+    <s:tag>décoration</s:tag>
+    <s:tag>décorative</s:tag>
+    <s:tag>fournisseur</s:tag>
+    <s:tag>grossiste</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>interior</s:tag>
+    <s:tag>intérieur</s:tag>
+    <s:tag>magasin</s:tag>
+    <s:tag>montreal</s:tag>
+    <s:tag>ontario</s:tag>
+    <s:tag>ottawa</s:tag>
+    <s:tag>plante</s:tag>
+    <s:tag>plante tropicale</s:tag>
+    <s:tag>plantes</s:tag>
+    <s:tag>plantetropicale</s:tag>
+    <s:tag>printemps</s:tag>
+    <s:tag>propagation</s:tag>
+    <s:tag>pépinière</s:tag>
+    <s:tag>quebec</s:tag>
+    <s:tag>saguenay</s:tag>
+    <s:tag>select</s:tag>
+    <s:tag>sherbrooke</s:tag>
+    <s:tag>trois-rivieres</s:tag>
+    <s:tag>tropical</s:tag>
+    <s:tag>tropicale</s:tag>
+    <s:tag>tropicales</s:tag>
+    <s:tag>venosa</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/7147638849699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/7128708710563</id>
+    <published>2021-07-15T08:44:04-04:00</published>
+    <updated>2021-07-15T08:44:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/aloe-plicatilis"/>
+    <title>Aloe Plicatilis (Fan aloe)</title>
+    <s:type>Plant</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-aloe-plicatilis.jpg?v=1626351990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Plant<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1em;">Aloe plicatilis (Fan aloe) has a unique, fan-like leaf arrangement. It's known for its upward growing green-blue leaves with orange shaded edges leaves. Its red flowers are known to attract hummingbirds.</span></p>
+<div data-mce-fragment="1">
+<meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Shape and size may vary from the photo</li>
+<li data-mce-fragment="1">Shipped in a 4" pot to prevent damage to the roots</li>
+<li data-mce-fragment="1">
+<meta charset="utf-8"> <span data-mce-fragment="1">Free delivery across Canada with a minimum purchase of $95</span>
+</li>
+</ul>
+</div>
+<div data-mce-fragment="1">
+<img height="51" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301"> Bright indirect light to full sun</div>
+<div data-mce-fragment="1">
+<img height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355"> Water when soil is completely dry</div>
+<div data-mce-fragment="1">
+<img alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750" width="50" height="50" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750"> Red flowers</div>
+<div data-mce-fragment="1">
+<img height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672"> Non-toxic</div>
+<div data-mce-fragment="1">
+<img height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974"> Growth :<span data-mce-fragment="1"> Up to 2m tall</span>
+</div>
+<div data-mce-fragment="1">
+<meta charset="utf-8"> <img alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783" width="50" height="50" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783"><span data-mce-fragment="1"> Origin : South Africa</span>
+</div>
+<div data-mce-fragment="1"><span data-mce-fragment="1"><img height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/7_480x480.png?v=1600884116" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/7_480x480.png?v=1600884116"> Grown in Canada</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aloe</s:tag>
+    <s:tag>aloes</s:tag>
+    <s:tag>décoration</s:tag>
+    <s:tag>fan aloe</s:tag>
+    <s:tag>intérieur</s:tag>
+    <s:tag>maison</s:tag>
+    <s:tag>médecine</s:tag>
+    <s:tag>plante</s:tag>
+    <s:tag>select</s:tag>
+    <s:tag>succulente</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/7128708710563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/7086249935011</id>
+    <published>2021-07-08T15:48:06-04:00</published>
+    <updated>2021-07-08T15:48:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/begonia-benigo"/>
+    <title>Begonia Benigo</title>
+    <s:type>Plant</s:type>
+    <s:vendor>Cactus en Ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-begonia-benigo-a.jpg?v=1625772602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en Ligne<br>
+        <strong>Type: </strong>Plant<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">The Begonia benigo plant is also nicknamed “Angel Wing” due to its angel wing-shaped leaves. These gorgeous leaves are dark green with red or silver specks. Leaves are deep red underneath.<br><br></span></p>
+<ul>
+<li>Shape and size may vary from the photo</li>
+<li>Shipped in a 4" pot to prevent damage to the roots</li>
+<li>Free delivery across Canada with a minimum purchase of $95</li>
+<li>Ships from April to Octobre<br><br>
+</li>
+</ul>
+<div data-mce-fragment="1">
+<img height="51" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301"> Bright, indirect <span data-mce-fragment="1">sunlight</span>
+</div>
+<div data-mce-fragment="1">
+<img height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355"> Water when top 2-3 cm are dry</div>
+<div data-mce-fragment="1">
+<img alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750" width="50" height="50" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750"> Pink flowers in clusters</div>
+<div data-mce-fragment="1">
+<img height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672"> Can be toxic to animals</div>
+<div data-mce-fragment="1">
+<img height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974"> Growth :<span data-mce-fragment="1"> From 30 to 60cm</span>
+</div>
+<div data-mce-fragment="1">
+<img alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783" width="50" height="50" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783"><span data-mce-fragment="1"> Origin : South America</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abordable</s:tag>
+    <s:tag>angel wings</s:tag>
+    <s:tag>cactus en ligne</s:tag>
+    <s:tag>cactus montréal</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>déco</s:tag>
+    <s:tag>décor</s:tag>
+    <s:tag>décoratif</s:tag>
+    <s:tag>décoration</s:tag>
+    <s:tag>décorative</s:tag>
+    <s:tag>fournisseur</s:tag>
+    <s:tag>grossiste</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>interior</s:tag>
+    <s:tag>intérieur</s:tag>
+    <s:tag>magasin</s:tag>
+    <s:tag>montreal</s:tag>
+    <s:tag>ontario</s:tag>
+    <s:tag>ottawa</s:tag>
+    <s:tag>plante</s:tag>
+    <s:tag>plante tropicale</s:tag>
+    <s:tag>plantes</s:tag>
+    <s:tag>plantetropicale</s:tag>
+    <s:tag>printemps</s:tag>
+    <s:tag>propagation</s:tag>
+    <s:tag>pépinière</s:tag>
+    <s:tag>quebec</s:tag>
+    <s:tag>saguenay</s:tag>
+    <s:tag>sherbrooke</s:tag>
+    <s:tag>trois-rivieres</s:tag>
+    <s:tag>tropical</s:tag>
+    <s:tag>tropicale</s:tag>
+    <s:tag>tropicales</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/7086249935011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/7075951509667</id>
+    <published>2021-07-02T14:48:25-04:00</published>
+    <updated>2021-07-02T14:48:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/euphorbia-acrurensis"/>
+    <title>Euphorbia Acrurensis</title>
+    <s:type>Plant</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-euphorbia-accrurensis-a.jpg?v=1625251004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Plant<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Euphorbia acrurensis is also known as Desert Candle Cactus. It has slender ribbed stems that grow like a chandelier and produce small oval leaves on the perimeters.</span></p>
+<div>
+<div data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Shape and size may vary from the photo</li>
+<li data-mce-fragment="1">Our plants are shipped in a 4" pot to prevent damage to the roots</li>
+<li data-mce-fragment="1">Free shipping in Canada on orders of $95 or more</li>
+</ul>
+</div>
+<div data-mce-fragment="1">
+<img height="51" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301" data-mce-fragment="1"> Full sun</div>
+<div data-mce-fragment="1">
+<img height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355" data-mce-fragment="1"> Water when the soil is completely dry</div>
+<div data-mce-fragment="1">
+<img alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750" width="50" height="50" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750" data-mce-fragment="1"> Rarely</div>
+<div data-mce-fragment="1">
+<img height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672" data-mce-fragment="1"> Toxic to animals</div>
+<div data-mce-fragment="1">
+<img height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974" data-mce-fragment="1"> Growth: Upright, up to 2m</div>
+<div data-mce-fragment="1">
+<meta charset="utf-8"> <img alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783" width="50" height="50" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783" data-mce-fragment="1"><span data-mce-fragment="1"> Origin : South Africa</span>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cactus</s:tag>
+    <s:tag>Euphorbe</s:tag>
+    <s:tag>euphorbe trigona</s:tag>
+    <s:tag>Euphorbia</s:tag>
+    <s:tag>succulent</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/7075951509667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/7038343905443</id>
+    <published>2021-06-14T09:24:01-04:00</published>
+    <updated>2021-06-14T09:24:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/calathea-medallion"/>
+    <title>Calathea Medallion</title>
+    <s:type>Plant</s:type>
+    <s:vendor>Cactus en Ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-calathea-medallion.jpg?v=1623858006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en Ligne<br>
+        <strong>Type: </strong>Plant<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">The beauty of the <meta charset="utf-8">Calathea Medallion is its large oval green leaves with purple undersides.</span> Its colorful foliage can help brighten up any room, office, or other indoor location!  Although calatheas are perennial tropical evergreen plants, they thrive indoors with minimal care.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Shape and size may vary from photo</li>
+<li data-mce-fragment="1">Shipped in a 4" pot to prevent damage to the roots</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Free delivery across Canada with a minimum purchase of $95</span></li>
+<li data-mce-fragment="1">This plant is not shipped during cold season</li>
+</ul>
+<div data-mce-fragment="1">
+<img alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301" width="50" height="51" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301"> M<span data-mce-fragment="1">edium light, away from direct sunlight</span>
+</div>
+<div data-mce-fragment="1">
+<img alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355" width="50" height="50" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355"> W<span data-mce-fragment="1">ater when the top inch has completely dried out</span>
+</div>
+<div data-mce-fragment="1">
+<img height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750"> Rarely, when indoors</div>
+<div data-mce-fragment="1">
+<img alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672" width="50" height="50" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672"> Non-toxic</div>
+<div data-mce-fragment="1">
+<img alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974" width="50" height="50" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974"> Growth : Up to 1 m</div>
+<div data-mce-fragment="1">
+<img height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783"><span data-mce-fragment="1"> Origin : Brazil</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Calathea</s:tag>
+    <s:tag>medallion</s:tag>
+    <s:tag>plante tropicale</s:tag>
+    <s:tag>plantetropicale</s:tag>
+    <s:tag>tropical</s:tag>
+    <s:tag>tropical plant</s:tag>
+    <s:tag>tropicale</s:tag>
+    <s:tag>tropicales</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/7038343905443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/4537244811399</id>
+    <published>2020-01-22T16:36:11-05:00</published>
+    <updated>2020-01-22T16:36:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/tillandsia-cyanea-4"/>
+    <title>Tillandsia Cyanea 4&apos;&apos;</title>
+    <s:type>Plant</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/TROP5.1.jpg?v=1628815404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Plant<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">
+<div>Tillandsia cyanea is also known as Pink Quill for the impressive flowering bract growing out of the top of the plant. This part of the plant is not the actual flower and small purple flowers will grow out from its sides. This plant appreciates a humid environment, but does well in many conditions. </div>
+<div><br></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Shape and size may vary from the photo</li>
+<li data-mce-fragment="1">Shipped in a 4" pot to prevent damage to the roots</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Free delivery across Canada with a minimum purchase of $95</span></li>
+</ul>
+</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" height="51" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/1_480x480.png?v=1600882301"> Bright indirect light</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/2_480x480.png?v=1600882355"> Water moderately when 1-2 inches of soil are dry</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750" width="50" height="50" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/3_480x480.png?v=1600882750"> Purple flowers</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/4_480x480.png?v=1600883672"> Non-toxic to animals</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/6_480x480.png?v=1600883974"> Growth: Bushy, 8 inches</div>
+<div data-mce-fragment="1">
+<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783" width="50" height="50" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/5_480x480.png?v=1600883783"><span data-mce-fragment="1"> Origin : Ecuador</span>
+</div>
+<div data-mce-fragment="1"><span data-mce-fragment="1"><img data-mce-fragment="1" height="50" width="50" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/7_480x480.png?v=1600884116" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0014/9789/0903/files/7_480x480.png?v=1600884116"> Grown in Canada</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cyanea</s:tag>
+    <s:tag>Tillandsias</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/4537244811399</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+</feed>

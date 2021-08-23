@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cactusenligne.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cactusenligne.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cactusenligne.ca/collections/accessories-sunblaster.atom"/>
+  <title>Cactus en Ligne</title>
+  <updated>2021-08-05T08:43:01-04:00</updated>
+  <author>
+    <name>Cactus en Ligne</name>
+  </author>
+  <entry>
+    <id>https://cactusenligne.ca/products/7170674098339</id>
+    <published>2021-08-05T08:43:01-04:00</published>
+    <updated>2021-08-05T08:43:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/moisture-and-ph-meter"/>
+    <title>Moisture and pH Meter</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-moisture-ph-meter.jpg?v=1628167266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>For measuring soil humidity levels and pH</li>
+<li>Know the right time to water plants</li>
+<li>If you don't have a green thumb, this is a must-have tool!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hygrometre</s:tag>
+    <s:tag>moisture meter</s:tag>
+    <s:tag>ph meter</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/7170674098339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5078655991943</id>
+    <published>2020-05-29T18:35:06-04:00</published>
+    <updated>2020-05-29T18:35:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/precision-pruner-curved-blade"/>
+    <title>Precision Pruner - Curved Blade</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/jossec4011.jpg?v=1591369095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span>Ergonomic pruner in stainless steel</span></li>
+<li><span>Anti-slip handle and comfort grips</span></li>
+<li><span>Safety lock</span></li>
+<li><span>Ulta light: 47 grams</span></li>
+<li><span>Protective carryng cap, great for safely slip into any pocket</span></li>
+<li>Free delivery in Canada with a minimum purchase of $95</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5078655991943</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5078654812295</id>
+    <published>2020-05-29T18:20:02-04:00</published>
+    <updated>2020-05-29T18:20:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/sec-0125-small-scissors-mini-clip-preorder"/>
+    <title>Small Scissors - Mini Clip</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/jossec0125.jpg?v=1591367930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span>Pocket size</span></li>
+<li><span>Surgical stainless steel blade</span></li>
+<li><span>Perfect to work floral arrangements and trimming plants</span></li>
+<li><span>Superb handling with is little-finger ring</span></li>
+<li>Free delivery in Canada with a minimum purchase of $95</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5078654812295</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/4399924052103</id>
+    <published>2019-12-12T12:15:53-05:00</published>
+    <updated>2019-12-12T12:15:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/plant-mister-6-1-2-ambre"/>
+    <title>Plant mister 6 1 / 2&apos;&apos; ambre</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/640028229_1-B.jpg?v=1579271256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/4399924052103</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/4399923363975</id>
+    <published>2019-12-12T12:14:23-05:00</published>
+    <updated>2019-12-12T12:14:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/plant-mister-6-1-2-seaglass"/>
+    <title>Plant mister 6 1 / 2&apos;&apos; seaglass</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/69875694_L.jpg?v=1579271257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/4399923363975</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/4399922872455</id>
+    <published>2019-12-12T12:11:17-05:00</published>
+    <updated>2019-12-12T12:11:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/plant-mister-6-1-2-clear"/>
+    <title>Plant mister 6 1 / 2&apos;&apos; clear</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/9685-06-09-Z.jpg?v=1579271257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/4399922872455</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/4291965091975</id>
+    <published>2019-10-30T10:56:54-04:00</published>
+    <updated>2019-10-30T10:56:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/derco-sprayer-1-l"/>
+    <title>Derco Sprayer 1 L</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/78126-Z.jpg?v=1578942546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/4291965091975</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/4291961618567</id>
+    <published>2019-10-30T10:56:54-04:00</published>
+    <updated>2019-10-30T10:56:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/syringe-12-cc"/>
+    <title>Syringe 10 ML/CC</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/75706_1-Z.jpg?v=1579271317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/4291961618567</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/1396410089559</id>
+    <published>2018-10-18T14:07:32-04:00</published>
+    <updated>2018-10-18T14:07:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/hygrometre"/>
+    <title>Hygrometre</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/88b7de4e9acced265d91054eaa1cf733.jpg?v=1578942643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>For measuring humidity levels of plant soil.</li>
+<li>Know the right time to water the plants.</li>
+<li>If you don't have a green thumb, this is a must-have tool!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hygrometre</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1396410089559</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>SQ5917692</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+</feed>

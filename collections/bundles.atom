@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cactusenligne.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cactusenligne.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cactusenligne.ca/collections/bundles.atom"/>
+  <title>Cactus en Ligne</title>
+  <updated>2021-03-05T20:47:05-05:00</updated>
+  <author>
+    <name>Cactus en Ligne</name>
+  </author>
+  <entry>
+    <id>https://cactusenligne.ca/products/1373267656791</id>
+    <published>2021-03-05T20:47:05-05:00</published>
+    <updated>2021-03-05T20:47:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/mix-10-tillandsias"/>
+    <title>Pack 10 Tillandsias</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/mix-tillandsias.png?v=1579271261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Bundle<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-rte-list="default">
+<li>
+<p style="white-space: pre-wrap;">Bundle of 10 Small Assorted Tillandsias (air plants)</p>
+</li>
+</ul>
+<p style="white-space: pre-wrap;"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>cactus en ligne</s:tag>
+    <s:tag>distributeur</s:tag>
+    <s:tag>fournisseur</s:tag>
+    <s:tag>grossiste</s:tag>
+    <s:tag>mariage italien</s:tag>
+    <s:tag>plante d&apos;air</s:tag>
+    <s:tag>Tillandsias</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1373267656791</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>mix-tillandsias</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/3880000880727</id>
+    <published>2019-06-28T16:07:52-04:00</published>
+    <updated>2019-06-28T16:07:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/package-plants-for-dummies"/>
+    <title>Package &quot;Plants for Dummies&quot;</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>CACTUS EN LIGNE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/Plantes_pour_nuls.jpg?v=1579271248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACTUS EN LIGNE<br>
+        <strong>Type: </strong>Bundle<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Bundle of six different low maintenance plants. Perfect for beginners and those who don't have a green thumb!</div>
+<div><span style="color: #f3f3f3;">.</span></div>
+<ul class="ul1">
+<li>Shipped in soil, in a 4" pot to prevent damage to the roots</li>
+<li>Greenhouse grown in Canada</li>
+<li>An ideal plant for decoration</li>
+<li>Low maintenance</li>
+<li>Includes "Cactus Care Guide"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/3880000880727</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/3879973421143</id>
+    <published>2019-06-28T15:34:23-04:00</published>
+    <updated>2019-06-28T15:34:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/half-dozen-succulents-4"/>
+    <title>Half-dozen Succulents 4&quot;</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>CACTUS EN LIGNE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/Succulentes_demi_douzaine.jpg?v=1578942610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACTUS EN LIGNE<br>
+        <strong>Type: </strong>Bundle<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Bundle of six succulents! You will be sent six randomly chosen succulent, each will be different.</div>
+<div><span style="color: #f3f3f3;">.</span></div>
+<ul class="ul1">
+<li>Shipped in soil, in a 4" pot to prevent damage to the roots</li>
+<li>Greenhouse grown in Canada</li>
+<li>An ideal plant for decoration</li>
+<li>Low maintenance</li>
+<li>Includes "Cactus Care Guide"</li>
+<li>Free delivery across Canada with a minimum purchase of $95</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/3879973421143</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/3879971061847</id>
+    <published>2019-06-28T15:30:13-04:00</published>
+    <updated>2019-06-28T15:30:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/succulent-quartet-4"/>
+    <title>Succulent Quartet 4&quot;</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>CACTUS EN LIGNE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/Quatuor_Succulentes.jpg?v=1579271299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACTUS EN LIGNE<br>
+        <strong>Type: </strong>Bundle<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Bundle of four succulents! You will be sent four randomly chosen succulents, each will be different.</div>
+<div><span style="color: #f3f3f3;">﻿.</span></div>
+<ul class="ul1">
+<li>Shipped in soil, in a 4" pot to prevent damage to the roots</li>
+<li>Greenhouse grown in Canada</li>
+<li>An ideal plant for decoration</li>
+<li>Low maintenance</li>
+<li>Includes "Cactus Care Guide"</li>
+<li>Free delivery across Canada with a minimum purchase of 75$</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/3879971061847</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/3879956971607</id>
+    <published>2019-06-28T15:01:14-04:00</published>
+    <updated>2019-06-28T15:01:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/half-dozen-cacti"/>
+    <title>Half-dozen Cacti 4&quot;</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/Cactus_demi_douzaine.jpg?v=1578942608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Bundle<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div>Bundle of six cacti! You will be sent six randomly chosen cacti, each will be different.</div>
+<div><span style="color: #f3f3f3;">.</span></div>
+<ul class="ul1">
+<li>Shipped in soil, in a 4" pot to prevent damage to the roots</li>
+<li>Greenhouse grown in Canada</li>
+<li>An ideal plant for decoration</li>
+<li>Low maintenance</li>
+<li>Includes "Cactus Care Guide"</li>
+<li>Free delivery across Canada with a minimum purchase of $95</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/3879956971607</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/3879949369431</id>
+    <published>2019-06-28T13:18:25-04:00</published>
+    <updated>2019-06-28T13:18:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/cactus-quartet-4"/>
+    <title>Cactus Quartet 4&quot;</title>
+    <s:type>PHYSICAL</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/Quatuor_Cactus.jpg?v=1578942507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>PHYSICAL<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Bundle of four cacti! You will be sent four randomly chosen cacti, each will be different.</div>
+<div><span style="color: #f3f3f3;">﻿.</span></div>
+<ul class="ul1">
+<li>Shipped in soil, in a 4" pot to prevent damage to the roots</li>
+<li>Greenhouse grown in Canada</li>
+<li>An ideal plant for decoration</li>
+<li>Low maintenance</li>
+<li>Includes "Cactus Care Guide"</li>
+<li>Free delivery across Canada with a minimum purchase of $95</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/3879949369431</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/1398894952535</id>
+    <published>2018-10-23T14:11:12-04:00</published>
+    <updated>2018-10-23T14:11:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/mystery-box"/>
+    <title>Mystery Box</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/BOITE_MYSTERE_3.png?v=1579271230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Bundle<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-rte-list="default" id="yui_3_17_2_1_1540318315603_517">
+<li>
+<p>Approximate value of $110</p>
+</li>
+<li>
+<p>Mix of cacti/succulents of different sizes (2.5'' and 4'').</p>
+</li>
+<li>
+<p>We include between 8 and 11 plants.</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1398894952535</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>mystery-box</s:sku>
+      <s:grams>1250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/1373267624023</id>
+    <published>2018-08-29T11:11:24-04:00</published>
+    <updated>2018-08-29T11:11:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/mix-10-succulentes-cactus-2-5"/>
+    <title>Pack 10 succulentes/cacti 2.5&apos;&apos;</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/mix-cactus-succulentes.jpg?v=1579271247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Bundle<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bundle of 10 different succulents/cacti</p>
+<ul class="ul1">
+<li class="li1">
+<span class="s1"></span>Include 2.5'' plastic pot and soil</li>
+<li class="li1">
+<span class="s1"></span>Low maintenance</li>
+<li class="li1">
+<span class="s1"></span>Include ''Tips to take care of your cacti''</li>
+<li class="li1">
+<span class="s1"></span>Free delivery in Canada with a minimum purchase of $95</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acheter un cactus</s:tag>
+    <s:tag>boite mystère</s:tag>
+    <s:tag>bundle</s:tag>
+    <s:tag>cacti</s:tag>
+    <s:tag>cactus</s:tag>
+    <s:tag>cactus montréal</s:tag>
+    <s:tag>cactusenligne</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>distributeur</s:tag>
+    <s:tag>décoratif</s:tag>
+    <s:tag>fournisseur</s:tag>
+    <s:tag>grossiste</s:tag>
+    <s:tag>intérieur</s:tag>
+    <s:tag>italian weeding</s:tag>
+    <s:tag>magasin</s:tag>
+    <s:tag>magasin de succulentes</s:tag>
+    <s:tag>maison</s:tag>
+    <s:tag>mariage italien</s:tag>
+    <s:tag>mini cactus</s:tag>
+    <s:tag>mini succulentes</s:tag>
+    <s:tag>montreal</s:tag>
+    <s:tag>mystery box</s:tag>
+    <s:tag>plante</s:tag>
+    <s:tag>plante grasse</s:tag>
+    <s:tag>plantes</s:tag>
+    <s:tag>plantetropicale</s:tag>
+    <s:tag>succulent</s:tag>
+    <s:tag>succulente</s:tag>
+    <s:tag>succulentes</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1373267624023</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>mix-10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/1373267591255</id>
+    <published>2018-08-29T11:11:24-04:00</published>
+    <updated>2018-08-29T11:11:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/pre-commande-mix-10-plantes-tropicales"/>
+    <title>Mix 10 Tropical Plants</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/mix-tropicale.jpg?v=1579271262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Bundle<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div></div>
+<ul data-rte-list="default">
+<li>
+<p style="white-space: pre-wrap;">Mystery box of 10 standard tropical plants</p>
+</li>
+<li>
+<p style="white-space: pre-wrap;">Include 4'' plastic pot and soil</p>
+</li>
+<li>
+<p style="white-space: pre-wrap;">Free delivery in Canada with a minimum purchase of $95</p>
+</li>
+<li>
+<p style="white-space: pre-wrap;">Tropical plants are ship from April to November.</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cactus</s:tag>
+    <s:tag>cactusenligne</s:tag>
+    <s:tag>distributeur</s:tag>
+    <s:tag>décor</s:tag>
+    <s:tag>ete</s:tag>
+    <s:tag>fournisseur</s:tag>
+    <s:tag>grossiste</s:tag>
+    <s:tag>intérieur</s:tag>
+    <s:tag>italian weeding</s:tag>
+    <s:tag>jardin</s:tag>
+    <s:tag>maison</s:tag>
+    <s:tag>mariage italien</s:tag>
+    <s:tag>plante</s:tag>
+    <s:tag>plantetropicale</s:tag>
+    <s:tag>printemps</s:tag>
+    <s:tag>succulente</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/1373267591255</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku>mix-tropicale</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

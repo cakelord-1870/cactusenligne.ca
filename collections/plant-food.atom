@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cactusenligne.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cactusenligne.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cactusenligne.ca/collections/plant-food.atom"/>
+  <title>Cactus en Ligne</title>
+  <updated>2021-08-18T15:16:51-04:00</updated>
+  <author>
+    <name>Cactus en Ligne</name>
+  </author>
+  <entry>
+    <id>https://cactusenligne.ca/products/7206931988643</id>
+    <published>2021-08-18T15:16:51-04:00</published>
+    <updated>2021-08-18T15:16:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/succulent-rx-fertilizer-500ml"/>
+    <title>Succulent Rx Fertilizer 500ml</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/cactus-en-ligne-succulent-rx-spray.png?v=1629314089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="font-size: 1.4em;">Indoor - night</span></li>
+<li><span style="font-size: 1.4em;">Covers 49 sq m</span></li>
+<li><span style="font-size: 1.4em;">For succulents</span></li>
+<li><span style="font-size: 1.4em;">Shake, spray and grow!</span></li>
+<li><span style="font-size: 1.4em;">500 ml</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>engrais</s:tag>
+    <s:tag>fertilizer</s:tag>
+    <s:tag>succulent</s:tag>
+    <s:tag>succulent rx</s:tag>
+    <s:tag>succulente</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/7206931988643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5753974423715</id>
+    <published>2020-10-09T15:05:46-04:00</published>
+    <updated>2020-10-09T15:05:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/plant-rx-fertilizer-500ml"/>
+    <title>Plant Rx Fertilizer 500ml</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/plantrxenhance_2048x_5d9d3d59-4b72-489e-9574-c289c6700ec5.png?v=1602270347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>
+<span style="font-size: 1.4em;">500 ML</span><br>
+</li>
+<li>
+<span style="font-size: 1.4em;">I</span><span style="font-size: 1.4em;">ndoor plants</span><br>
+</li>
+<li><span style="font-size: 1.4em;">For all plants</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5753974423715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/5078659694727</id>
+    <published>2020-05-29T18:35:06-04:00</published>
+    <updated>2020-05-29T18:35:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/liquid-root-stimulator-preorder"/>
+    <title>Liquid Root Stimulator</title>
+    <s:type>plant food</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/wi684c.jpg?v=1591369093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>plant food<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li><span>50 mL</span></li>
+<li><span>Liquid formula to stimulate quick root growth on cuttings of many types of plants</span></li>
+<li>Free delivery in Canada with a minimum purchase of $95</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>propagation</s:tag>
+    <s:tag>root growth</s:tag>
+    <s:tag>root stimulator</s:tag>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/5078659694727</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/4572878602375</id>
+    <published>2020-02-04T14:19:56-05:00</published>
+    <updated>2020-02-04T14:19:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/veggies-food-4-2-8"/>
+    <title>Vegetable Food 4-2-8</title>
+    <s:type>plant food</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/as428esc.jpg?v=1581087896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>plant food<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>350g</li>
+<li>Made in Quebec with seaweed</li>
+<li>Shipping everywhere in Canada</li>
+<li>Approved by Ecocert Canada</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/4572878602375</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/4572860612743</id>
+    <published>2020-02-04T14:10:55-05:00</published>
+    <updated>2020-02-04T14:10:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/orchids-food"/>
+    <title>Orchids Food</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/telechargement_450bbd00-af29-4924-a3d1-4cdaa7643c53.jpg?v=1581085705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Liquid plant food</li>
+<li>Easy-to-measure dropper</li>
+<li>118 ml</li>
+<li>Shipping everywhere in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/4572860612743</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/4572907077767</id>
+    <published>2020-02-04T14:01:55-05:00</published>
+    <updated>2020-02-04T14:01:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/vegetable-herb-food"/>
+    <title>Myke Vegetable &amp; Herb Food</title>
+    <s:type>plant food</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/mypo180c.jpg?v=1581087896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>plant food<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>180 ml</li>
+<li>Made in Quebec</li>
+<li>Certified Organic</li>
+<li>Shipping everywhere in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/4572907077767</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/4572877193351</id>
+    <published>2020-02-04T14:01:55-05:00</published>
+    <updated>2020-02-04T14:01:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/flower-food-4-3-7"/>
+    <title>Flower Food 4-3-7</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/as437esc.jpg?v=1581085293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>350g</li>
+<li>Made in Quebec with seaweed</li>
+<li>Shipping everywhere in Canada</li>
+<li>Approved by Ecocert Canada</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/4572877193351</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/4572857991303</id>
+    <published>2020-02-04T14:01:55-05:00</published>
+    <updated>2020-02-04T14:01:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/african-violet-food"/>
+    <title>African Violet Food</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/24S081409150.jpg?v=1581085281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Liquid plant food</li>
+<li>Easy-to-measure dropper</li>
+<li>118 ml</li>
+<li>Shipping everywhere in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/4572857991303</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/4572843081863</id>
+    <published>2020-02-04T14:01:55-05:00</published>
+    <updated>2020-02-04T14:01:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/fresh-sea-weed-fertilizer"/>
+    <title>Fresh Sea Weed Fertilizer</title>
+    <s:type></s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/acal250_1.jpg?v=1581085293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Made of more than 60 nutrients</li>
+<li>250 ml</li>
+<li>Made in Quebec</li>
+<li>Organic product</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/4572843081863</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cactusenligne.ca/products/3596421726295</id>
+    <published>2019-05-10T11:42:21-04:00</published>
+    <updated>2019-05-10T11:42:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cactusenligne.ca/products/engrais-pour-cactus-succulentes"/>
+    <title>Cactus Liquid Plant Food 2-7-7</title>
+    <s:type>plant food</s:type>
+    <s:vendor>Cactus en ligne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/9789/0903/products/Schultz_liquid_cactus_plant_food_138g_I_180020001_1-Z_1024x1024_34f57e90-db7d-4b85-a313-6cb4bec3e306.jpg?v=1578942570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cactus en ligne<br>
+        <strong>Type: </strong>plant food<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Promotes the growth of cacti</li>
+<li>Liquid fertilizer, mix a few drops in water at watering time</li>
+<li>Complete instruction booklet in the box</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cactusenligne.ca/products/3596421726295</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+</feed>
